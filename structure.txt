@@ -1,0 +1,8 @@
+There will be a UserService class annotated with @ApplicationScoped
+	In the service class there will be a static List of User that we will act like a database/datastore.
+	Also, there will be create, update, get, getAll, delete methods to manipulte the user list.
+3. There will be a UserConntroller class where we will use @Inject to inject the UserService class.
+ 	and there will be use of @GET, @POST, @PUT, @DELETE annotations for the apis
+
+
+Try to do it by today. We will update our progress to
